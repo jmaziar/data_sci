@@ -1,1 +1,37 @@
 
+final project ideas: golf
+  standardize stats/scores-not rank but diff from mean in stddev, not score but diff from mean in stddev, etc
+    use stats only from before tournament
+  world ranking points?
+  which golfers play well at this course?
+  weather? wind/precipitation(night before and day of)/temperature/altitude
+  grass types
+  experience at course (accounting for age?) eh
+  extraneous vars: rough length
+
+
+https://github.com/Dt1431/chi-ds-5-lesson-1.git
+
+
+wifi pwd: yellowpencil
+door code: *7854
+
+
+Activity (sports):
+
+1. classification: is it worth it to go for the green on the par 5 over water? which golfer shoot lower between these two?
+
+2. recognition: which golfer will win masters?
+
+3. anomaly: did racer anticipate starting gun, did batter use steroids, was ref paid off
+
+4. prediction: how many wins will the warriors have this year? what will be winning score of the masters?
+
+5. grouping: what type of golfer does well at Augusta national?
+
+
+web scraping
+what to do w missing data
+"nearest neighbor"
+"decision tree"
+
