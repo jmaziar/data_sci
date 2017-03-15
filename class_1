@@ -8,6 +8,8 @@ final project ideas: golf
   grass types
   experience at course (accounting for age?) eh
   extraneous vars: rough length
+  
+  schedule it to run periodically (grab results, stats, etc)
 
 
 https://github.com/Dt1431/chi-ds-5-lesson-1.git
@@ -32,6 +34,32 @@ Activity (sports):
 
 web scraping
 what to do w missing data
-"nearest neighbor"
+ideal vs available data
+"K-nearest neighbor"
 "decision tree"
+
+
+TOOLS:
+git
+terminal
+  download python packages, run py scripts, connect to external sources
+  codeacademy command line
+pandas
+jupyter
+  iPython
+  run script piecewise instead of at once and add text
+
+
+"zen of python"
+
+python vs R:
+  R best most robust for data science
+  python pretty much same, easier to convert into an app
+
+scripts vs applications:
+  script: set of instructions that u ask comp to excecute, start to finish, info up front, no questions
+  app: more complex, instruction manual for different situaitons vs a recipe, user contribution, always running
+  
+packages: grab from web using pip, then use in code using import
+
 
